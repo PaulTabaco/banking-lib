@@ -1,4 +1,4 @@
-module parus.i234.me/tutunico/banking-lib
+module github.com/PaulTabaco/banking-lib
 
 go 1.19
 
